@@ -13,3 +13,7 @@ h1 {
   width: 1051px;
   height: 762px;
 }
+.beagle {
+  font-weight: bold;
+  font-style: italic;
+}
